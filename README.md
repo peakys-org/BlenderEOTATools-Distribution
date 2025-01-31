@@ -36,7 +36,7 @@ EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます
 ![Image](https://github.com/user-attachments/assets/bbcc2391-608e-434c-9669-9d1d6805593f)
 
 #### 一段目
-- オーバースキャン領域の割合を示します。面積比ではなく相似比です。
+- オーバースキャン領域の割合を示します。
 - 実際に出力される画素数です。
 
 #### 二段目
@@ -44,6 +44,7 @@ EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます
 
 #### 三段目
 - オーバースキャン枠に対する設定です。
+- レンダリング結果にも描画されます。不要の場合は、「線の太さ」を 0px にするなどします。
 
 ### 出力
 ![Image](https://github.com/user-attachments/assets/154bb9af-86e6-4fa7-9f88-c3a51f389767)
