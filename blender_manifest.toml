@@ -1,11 +1,11 @@
 schema_version = "1.0.0"
 id = "EOTATools"
-version = "1.0.1"
+version = "1.0.2"
 name = "EOTATools"
 tagline = "Create BG Layout"
 maintainer = "EOTA, Peakys 加藤宏怜(@hirosaoto654)"
 type = "add-on"
-website = "https://github.com/peakys-org/BlenderEOTATools-Distribution/blob/main/README.md"
+website = "https://github.com/peakys-org/BlenderEOTATools-Distribution"
 tags = ["3D View", "Render", "Compositing", "Node", "Camera", "Bake"]
 blender_version_min = "3.4.0"
 license = [
