@@ -7,7 +7,7 @@ maintainer = "EOTA, Peakys 加藤宏怜(@hirosaoto654)"
 type = "add-on"
 website = "https://github.com/peakys-org/BlenderEOTATools-Distribution"
 tags = ["3D View", "Render", "Compositing", "Node", "Camera", "Bake"]
-blender_version_min = "3.4.0"
+blender_version_min = "4.0.0"
 license = [
   "Proprietary: All rights reserved by EOTA.",
 ]
